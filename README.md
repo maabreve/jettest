@@ -1,10 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Install and Running
-Clone the repository && run 'yarn install' && yarn start
+## Description 
+Test app developed using React, React Hooks and Redux
 
+## Install 
+Clone the repository and run 'yarn install'
 
-## Available Scripts
+## Running
 
 In the project directory, you can run:
 
