@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Description 
 Test app developed using React, React Hooks and Redux
 
-## Install 
+## Installing
 Clone the repository and run yarn install
 
 
